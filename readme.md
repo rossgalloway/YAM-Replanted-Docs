@@ -4,7 +4,7 @@ sidebar_label: "Introduction"
 id: "replantedDocs"
 ---
 
-# YAM Replanted: A Proposal for a Better YAM
+# YAM Replanted: A Fresh Start
 
 ## Abstract
 
