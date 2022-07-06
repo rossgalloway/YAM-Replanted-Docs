@@ -75,7 +75,7 @@ The DAO should consider what kind of compensation it can offer for a well crafte
 
 ### Grant Completion (both tracks)
 
-1. At the intervals specified in the requirements documents for each project, the deliverables that are specified are presented publicly in order for token holders to determine whether the work that was promised was completed. This model is described in the [Optimistic Grants](/YAM%20Replanted%20Docs/the-new-yam-dao-model/optimistic-grants.md) section.
+1. At the intervals specified in the requirements documents for each project, the deliverables that are specified are presented publicly in order for token holders to determine whether the work that was promised was completed. This model is described in the [Optimistic Grants](optimistic-grants.md) section.
     - The default outcome is one where the work has been completed satisfactorily and no action is required. The grant is paid out according to the terms of the agreement in the next on-chain vote.
     - If any token holder believes that the work done does not meet the terms of the grant agreement, then they can raise an objection and create a new snapshot vote to determine whether the grant should be paid, not paid, or re-negotiated.
 2. If there is further work to be done, a new grant can be created to continue the work, using the same process.
