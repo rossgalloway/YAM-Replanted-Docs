@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: "Accountability"
+---
+
 # Accountability
 
 💡 How do we hold all users accountable?

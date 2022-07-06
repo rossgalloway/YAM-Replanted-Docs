@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: "Introduction"
+---
+
 # YAM Replanted: A Proposal for a Better YAM
 
 ## Abstract

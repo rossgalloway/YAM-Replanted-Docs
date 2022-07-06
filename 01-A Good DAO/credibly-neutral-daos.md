@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: "Credibly Neutral DAOs"
+---
+
 # Credibly Neutral, Permissionless DAOs
 
 <aside>

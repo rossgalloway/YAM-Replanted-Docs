@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+sidebar_label: "Transparency"
+---
+
 # Transparency
 
 💡 Where and How much?

@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+sidebar_label: "Silo/Council Distinction"
+---
+
 # Silo/Council Distinction
 
 Why have two structures? Because each structure works better for different tasks

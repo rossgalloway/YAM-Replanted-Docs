@@ -1,3 +1,8 @@
+---
+sidebar_position: 8
+sidebar_label: "The Gov-Ops Council (GOC)"
+---
+
 # The Gov-Ops Council (GOC)
 
 ## Role within YAM

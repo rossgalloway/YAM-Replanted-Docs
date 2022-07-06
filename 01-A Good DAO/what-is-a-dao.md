@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+sidebar_label: "What is a DAO"
+---
+
 # What Is a DAO?
 
 <aside>

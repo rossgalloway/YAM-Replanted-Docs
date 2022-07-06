@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_label: "Optimistic Grants"
+---
+
 # Optimistic Grants
 
 ## What are they?

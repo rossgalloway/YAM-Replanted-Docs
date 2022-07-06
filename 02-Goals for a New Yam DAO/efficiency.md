@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+sidebar_label: "Efficiency"
+---
+
 # Efficiency
 
 💡 Is efficiency possible?

@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+sidebar_label: "Broad Goals"
+---
+
 # Broad Goals
 
 ## Shift Control to Yam Token Holders

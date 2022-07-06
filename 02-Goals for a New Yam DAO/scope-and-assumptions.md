@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar_label: "Scope and Assumptions"
+---
+
 # Defining our Scope and Assumptions
 
 <aside>

@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+sidebar_label: "Good DAOs"
+---
+
 # Good DAOs
 
 💡 something to summarize what makes a good DAO.

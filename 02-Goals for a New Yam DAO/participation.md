@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+sidebar_label: "Participation"
+---
+
 # Participation
 
 💡 State the goals and how we solve them

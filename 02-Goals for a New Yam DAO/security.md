@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+sidebar_label: "Security"
+---
+
 # Security
 
 💡 How do we keep the DAO safe?
