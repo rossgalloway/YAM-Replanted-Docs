@@ -1,22 +1,42 @@
 ---
-sidebar_position: 1
-sidebar_label: "Introduction"
+sidebar_position: 2
+sidebar_label: "What is a DAO"
 ---
 
-# YAM Replanted: A Proposal for a Better YAM
+# What Is a DAO?
 
-## Abstract
+<aside>
+💡 Before we can dive into YAM, we need to understand DAOs
 
-We believe that YAM has the opportunity to become a DAO that is unique, flexible, and modular, which leans into the open source ethos and allows for good ideas to come from anywhere. YAM does not need to re-create old models of organization or simply copy other DAOs, but can try for something better and create a truly open source organization that allows anyone to build on top of it as long as they follow the rules prescribed by its members.
+</aside>
 
-*YAM Replanted* proposes to modify and clarify the organizational structure of the DAO in a way that provides the flexibility and accountability needed to achieve this vision and provides a framework for how YAM stakeholders can deploy capital and fund projects effectively.  It does not attempt to answer where the DAO should deploy capital as that is a question that must ultimately be answered by the token holders themselves. While this document cannot answer this question, it can hopefully provide token holders the tools to answer it and then purse the vision defined by the answer.
+## Building a Definition
 
-## The Basics of YAM
+DAO stands for "Decentralized Autonomous Organization." But what does that mean?
 
-Insipired by Yearn and Ampleforth, the YAM token was created in August of 2020 as a fair launched rebasing token with the goal of creating a DAO owned and managed treasury. The treasury lives on the Ethereum blockchain and is managed by YAM token holders. Stakeholders can submit a request to the YAM governance contract to use or spend the funds in the treasury.
+We can start by looking at each word individually. To start, we must understand that the the key term is "Organization" and the other terms modify that.
 
-The initial supply of YAM tokens was given away to ecosystem participants who owned and deposited one of 8 different DeFi tokens in a week long distribution event. Since it's founding, the treasury has grown to hold ~$5 Million in assets and has operated as an on chain decentralized organization (DAO). The rebasing mechanism was turned off in December of 2020 after a broad community support to do so.
+- Organization (noun): a group of persons organized for some end or work
 
-YAM has funded work on a myriad of projects including a synthetic assets platform built on UMA (Yam Synths), a treasury management framework (YAM treasuries), a protection protocol (Yam Protection), to an NFT art curation and metaverse gallery (MoFY). Some of these projects are still under development, while others are not.
+The preceding terms modify Organization. So lets define them.
 
-While the YAM experiment has had many successes, the downsides of an open, flat, and decentralized organizational model have caused frictions. These are not issues that are unique to YAM, and many DAOs have struggled to deal with them. Product development in an unstructured environment has been difficult and general participation in governance and in the organization has been lackluster.
+- Decentralization (noun): the dispersion or distribution of functions and powers
+- Autonomous (adj.): existing or capable of existing and acting independently
+
+We can put these definitions together and see what we get:
+
+> A group of persons, who are capable of acting independently, with distributed functions and powers to complete some goal or work.
+>
+
+## Refining Our Definition
+
+An interesting conclusion that we can take from this definition is that it avoids one of the common critiques of many DAOs: That they cease being autonomous when human governance and participation are involved. These critiques assume that autonomy lies at the level of the organization (i.e. it must be able to act on it's own). But if instead the autonomy lies with the actors within the organization then there is no need for the DAO be able to act without human input. Human input may still be necessary, but instead of being prescribed by a pre-determined set of rules and hierarchies, this input is self directed and governed by an emergent set of rules.
+
+These rules are emergent in that they arise from the actions and efforts of a broad set of actors all working autonomously to define them. They are inherently malleable and will evolve over time as the actors in the network gain more information and update their beliefs and understandings of the DAO. These emergent rules and the resources that are deployed using these rules *are the DAO*.
+
+So we now can come back to our definition of a DAO and create a more specific definition:
+
+> “A distributed network of autonomous agents coordinating resources and developing rules to complete some goal or work.”
+>
+
+A DAO can then use these rules to collectively make and come to consensus on a wide range of decisions.
