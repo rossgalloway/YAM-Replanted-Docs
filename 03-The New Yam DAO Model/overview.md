@@ -40,4 +40,4 @@ Efficiency is achieved through delegation and separation of concerns. Decisions 
 
 The security of the DAO should remain unchanged. We expect it to improve as the systems used to make decisions and fund projects become more transparent and understood. The existing checks and balances on the treasury, including minimized interaction with the treasury and the guardian multi-sig remain.
 
-[insert image here]
+![overview-image](/img/overall-diagram-1.png)

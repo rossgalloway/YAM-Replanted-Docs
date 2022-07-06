@@ -15,7 +15,7 @@ In the model described here, once a grant proposal is submitted and approved, th
 
 ### The full process would be as follows
 
-1. The grant applicant would go through the application process as described [here](https://www.notion.so/Grants-Process-16f1011cf55a445180a21d078224a70c) in which the scope of work and deliverables for the project are laid out and approved.
+1. The grant applicant would go through the application process as described [here](the-grants-process.md) in which the scope of work and deliverables for the project are laid out and approved.
 2. Work begins on the project funded by the grant and when the first deliverable or milestone is completed per the approved grant specification, it would be posted for review.
 3. If there are no objections then payment for the milestone will be added to the next on-chain transaction. If an objection is raised about the work then it should be posted and reviewed and a snapshot vote created to determine whether the payment or grant contract need to be adjusted.
 4. After the snapshot vote, the approved path forward is followed and any payment is added to the next on-chain transaction.

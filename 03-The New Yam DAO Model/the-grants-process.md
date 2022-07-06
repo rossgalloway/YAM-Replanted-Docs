@@ -45,7 +45,7 @@ The DAO should consider what kind of compensation it can offer for a well crafte
 
 ## The Process in Practice
 
-![GRANT FLOW 1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8bc24d09-b03a-4a80-8273-3e3a27cc6130/GRANT_FLOW_1.png)
+![GRANT FLOW 1.png](/img/grant-flow-1.png)
 
 ### Proactive Applications
 
